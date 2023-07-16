@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "bulma-calendar": "^6.1.19",
+    "date-fns": "^2.30.0",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}

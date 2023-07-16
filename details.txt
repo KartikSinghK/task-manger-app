@@ -1,0 +1,6 @@
+icon
+inbox : <ion-icon name="archive-outline"></ion-icon>
+today : <ion-icon name="today-outline"></ion-icon>
+projects : <ion-icon name="today-outline"></ion-icon>
+tag : <ion-icon name="pricetags-outline"></ion-icon>
+plus : <ion-icon name="add-outline"></ion-icon>
